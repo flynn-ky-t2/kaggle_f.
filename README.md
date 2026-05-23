@@ -1,0 +1,1 @@
+A collection of my Kaggle work—covering data analysis, feature engineering, machine learning models, and experiments with AI/ML techniques. This repo reflects my journey transitioning from functional consulting into data analytics and data science, with a strong focus on hands‑on learning.
